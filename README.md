@@ -4,7 +4,7 @@ This repo contains the training materials for workshops, app days, etc.
 
 ## Containing
 
-1. setup.md contains information for participants on how to set up their environment, GeekPhones etc. on all platforms
+1. [setup.md](https://github.com/comoyo/Firefox-OS-training/blob/master/setup.md) contains information for participants on how to set up their environment, GeekPhones etc. on all platforms
 2. Firefox Nightly
 3. Firefox Simulator
 4. Two boilerplate applications to bootstrap development
