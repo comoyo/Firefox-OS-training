@@ -1,0 +1,3 @@
+[submodule "complex-app"]
+	path = complex-app
+	url = git://github.com/comoyo/ffos-list-detail.git

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Super simple!</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0"/>
+    <meta charset="UTF-8"/>
+    <!-- Here you put building blocks CSS -->
+    <link rel="stylesheet" type="text/css" href="shared/style/headers.css">
+    <style>
+      html {
+        height: 100%;
+        width: 100%;
+        padding: 0;
+        margin: 0;
+        font-size: 10px;
+        overflow: hidden;
+      }
+      
+      body {
+        font-family: "MozTT", sans-serif;
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        width: 100%;
+        overflow: hidden;
+      }
+    </style>
+  </head>
+  <body>
+    <section role="region">
+      <header>
+        <menu type="toolbar">
+          <a href="#" id="add"><span class="icon icon-add">add</span></a>
+        </menu>
+        <h1>Firefox OS!</h1>
+      </header>
+    </section>
+    
+    <script>
+      document.getElementById('add').addEventListener('click', function() {
+        alert('You clicked add!');
+        return false;
+      });
+    </script>
+  </body>
+</html>
