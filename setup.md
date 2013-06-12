@@ -1,4 +1,3 @@
-
 # How to setup your environment to work on Firefox OS
 
 Thanks for being with us on this event! This document describes all the steps required to setup your local environment to work with Firefox OS.
@@ -115,4 +114,10 @@ This is a known problem. The 'Application installed' message appears but there i
 2. Close your running application
 3. Re-launch
 
+## I need feature X, Y or Z and it's in a newer build
 
+GeeksPhone has pre-build versions of their software (both stable 1.0.1) and nightly available on [downloads.geeksphone.com](http://downloads.geeksphone.com/).
+
+# Presentation links
+
+* Jan Jongboom, [web apps and APIs](http://www.slideshare.net/janjongboom)
