@@ -1,3 +1,6 @@
 [submodule "complex-app"]
 	path = complex-app
 	url = git://github.com/comoyo/ffos-list-detail.git
+[submodule "simple-app"]
+	path = simple-app
+	url = git://github.com/comoyo/ffos-simple-app.git
